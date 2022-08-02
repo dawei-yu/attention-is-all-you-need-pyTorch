@@ -4,7 +4,7 @@ A pyTorch implementations of Attention is all you need.
 
 The project is modified from [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch). It seems that there are some problems in his project. 
 
-1)In translation, only when k brances both get end token, translation is picked from them.
+1)In translation, only when k brances both get end token, the target sequence is picked from them.
 
 2)The mask for decoder don't work.
 
