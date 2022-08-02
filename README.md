@@ -34,7 +34,7 @@ python getVocab.py
 ```
 
 ### train
-I train on two RTX3090 24G. only DDP training in train.py, you can set os.environ['CUDA_VISIBLE_DEVICES'] = '0' if you only train on one gpu.
+I train on two RTX3090 24G. Only DDP training in train.py, you can set os.environ['CUDA_VISIBLE_DEVICES'] = '0' if you only train on one gpu.
 
 If you are interesting at attetion mechanism, you can read [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb)
 ```
