@@ -49,4 +49,4 @@ python translate.py -vocab_path wmt14_en_de/vocab.pkl -src_path wmt14_en_de/test
 
 ## Acknowledgement
 - .sh is borrowed from [facebookresearch/faieseq](https://github.com/facebookresearch/fairseq/tree/main/examples/translation)
-- Some model and some scripts structures is borrowed from [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+- Some model structures and some scripts is borrowed from [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
