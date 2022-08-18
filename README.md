@@ -1,5 +1,5 @@
 # attention-is-all-you-need-pyTorch
-A pyTorch implementations of Attention is all you need.
+A pyTorch implementation of Attention is all you need.
 
 
 The project is modified from [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch). It seems that there are some problems in his project. 
